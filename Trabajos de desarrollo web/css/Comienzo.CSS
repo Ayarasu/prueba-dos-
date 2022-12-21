@@ -1,0 +1,49 @@
+/*Slector universal
+*{
+    color:brown;
+}
+
+*/
+
+/* selector de etiquetas*/
+
+/*header{
+    color:blueviolet;
+}
+
+h1,h2{
+    color:#0f0f0c;
+    background-color: #00FF00;
+    width: 100%;
+    text-align: center;
+}*/
+
+/*selector descendente
+
+p span {
+    color: #4682B4;
+}
+*/
+/*body{
+    color: aquamarine;
+}*/
+
+/*selector de atributos
+
+input[type="text"]{
+    width: 325px;
+}
+*/
+
+/* selector de id
+
+#nombre{
+    width: 325px;
+}
+*/
+
+/*selector de clase */
+
+.password{
+    width: 325px;
+}
