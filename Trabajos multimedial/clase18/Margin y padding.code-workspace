@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../Margin y padding"
+		},
+		{
+			"path": "../../examen web"
+		},
+		{
+			"path": "../../curso de html"
+		},
+		{
+			"path": "../../curso CSS"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "examen web"
+	}
+}

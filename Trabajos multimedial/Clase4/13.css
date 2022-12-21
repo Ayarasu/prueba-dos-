@@ -1,0 +1,56 @@
+*, *::after, *::before{
+    padding: 0;
+    margin: 0;
+}
+/* al colocar el vh(significa lo alto(toda la pantalla)) y el VW(Significa a lo ancho) en el height especifica que ocupe toda la pantalla de alto*/
+.custom-main{
+    background-color: rgb(145, 15, 145);
+    height: 100vh;
+    width: 100vw;
+    display: flex;/**/
+    flex-direction: row;
+}
+/*A los hijos (cajas) se pueden usar porcentajes*/
+.custom-menu{
+    background-color: rgb(71, 255, 194);
+    height: 100%;
+    width: 30%;
+    flex-direction: row;
+}
+
+.custom-content{
+    background-color: rgb(122, 55, 10);
+    width: 70%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;/*especifica cómo colocar los objetos flexibles en el contenedor flexible definiendo el eje principal y la dirección (normal o al revés).*/
+
+}
+
+.slider{
+    height: 50%;
+    background-color:whitesmoke;
+    width: 100%;
+}
+
+.custom-body{
+    height: 50%;
+    background-color: teal;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.block{
+    background-color: rgb(156, 158, 9);
+    width: 33.33%;
+    height: 100%;
+}
+
+.custom-body .block:nth-child(1){
+    background-color: burlywood;
+}
+
+.custom-body .block:nth-child(3){
+    background-color: peru;
+}

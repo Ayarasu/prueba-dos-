@@ -1,0 +1,25 @@
+Teoria del cronograma, conceptos y demas.
+
+*planificar la gestion del cronograma
+*Definir las actividades
+*secuenciar las actividades
+*estimar la duracion de las actividades
+*desarrollar el cronograma
+*controlar el cronograma
+
+_secuenciar las actividades metodos.
+
+-diagramacion por procedencia(metodo que usaremos en el proyecto library brothers)
+4 tipos de relaciones:
+**final e inicio (FS): relacion en la que una actividad sucesora no puede comenzar hasta que se concluya la actividad
+predecesora.
+**final a final(FF): relacion en la que una actividad sucesora no puede finalizar hasta que se haya finalizado
+la actividad predecesora. 
+**Inicio a inicio(SS): relacion de actividad sucesora  no puede comenzar hasta que se haya comenzado la actividad
+predecesora.
+**inicio a final(SF): actividad sucesora no puede finalizar hasta que haya comenzado la actividad predecesora.
+
+--------------------
+-determinacion e integracion 
+-adelantos y retrasos
+-sistema de informacion  
